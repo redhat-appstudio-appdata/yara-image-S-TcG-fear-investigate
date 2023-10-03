@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: yara-image
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/brianwcook-tenant/yara-image/yara-image@sha256:6ea6b4eb6a9936f8791a38de11b23277eac1716971d31193322f4c4ac86ccf7e
+      - image: quay.io/redhat-user-workloads/brianwcook-tenant/yara-image/yara-image@sha256:f902b20a3988a6dacfb9a35652fc36aededfe13426bea21f79f3dc90d048105c
         imagePullPolicy: Always
         name: container-image
         ports:
