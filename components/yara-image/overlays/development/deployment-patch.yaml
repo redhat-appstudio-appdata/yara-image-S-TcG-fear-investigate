@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/brianwcook-tenant/yara-image/yara-image@sha256:72366df116deef4c4eae847463cf2290d6fce496e466c7fdaa25df736162bad3
+      - image: quay.io/redhat-user-workloads/brianwcook-tenant/yara-image/yara-image@sha256:6ba9a9e706489fb8dadacdc970fc042791eed236e906f0f7f4183f80953549ef
         name: container-image
         resources: {}
 status: {}
